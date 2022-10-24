@@ -3,3 +3,7 @@ The Game consist of a Snake and an apple.Each time the snake eats an apple it ge
 
 
 
+
+
+https://user-images.githubusercontent.com/85549700/197604405-c4e5f1b5-9ea6-4aa8-941a-e43f16ab59a7.mp4
+
